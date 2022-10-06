@@ -1,0 +1,4 @@
+main: com.banarnia.infected.Main
+name: ${name}
+version: ${version}
+author: Banarnia
