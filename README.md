@@ -9,6 +9,6 @@ After the infection has been cured, by expiring or drinking milk, he will be pro
 This plugin was created on request with given requirements. If you find any bugs or want to request a feature feel free to create an issue.
 
 # Commands & Permissions
-``/infected infect <Player> - Infects the player.
+```/infected infect <Player> - Infects the player.
 /infected cure <Player> - Cures the player from the infection.
-/infected reload - Reloads the configuration.``
+/infected reload - Reloads the configuration.```
