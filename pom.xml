@@ -6,7 +6,7 @@
 
     <groupId>com.banarnia.infected</groupId>
     <artifactId>Infected</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>Infected</name>
     <description>This plugin adds an infected game mode.</description>
 
